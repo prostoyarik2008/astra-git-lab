@@ -2,3 +2,8 @@ h1 {
     text-align: center;
     color: #2c3e50;
 }
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
